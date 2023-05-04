@@ -1,0 +1,3 @@
+variable "azure" {
+    type = bool
+}
